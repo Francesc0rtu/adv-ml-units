@@ -29,3 +29,4 @@ Challenges:
 * [Challenge 1](./notebooks/AdvML_Challenge_1.ipynb): An analytical perambulation around *FashionMNIST*
 
 * [Challenge 2](): *TDB*
+
